@@ -21,6 +21,6 @@ function setUpGoogleSheets() {
               alert('Error!', error.message)})
 
       btn.disabled = false
-      btn.innerHTML = "Send to Google Sheets"
+      btn.innerHTML = "Please Send to Google Sheets"
     })
 }
